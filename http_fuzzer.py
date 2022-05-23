@@ -1,4 +1,5 @@
-#!/usr/bin/python2
+#!/usr/bin/env python2
+
 import sys, socket
 from time import sleep
 
